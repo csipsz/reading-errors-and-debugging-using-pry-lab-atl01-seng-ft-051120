@@ -15,3 +15,4 @@ def engage
 end
 
 
+state_log(generate_star_date)
